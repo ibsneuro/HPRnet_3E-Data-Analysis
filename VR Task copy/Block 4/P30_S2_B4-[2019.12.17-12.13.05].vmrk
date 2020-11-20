@@ -1,0 +1,79 @@
+Brain Vision Data Exchange Marker File, Version 1.0
+
+[Common Infos]
+Codepage=ANSI
+DataFile=C:/Users/User/Desktop/ShootingGalleryVR/EEG_LOGS/P30_S2_B4-[2019.12.17-12.13.05].eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20191217121306000000
+Mk2=Stimulus,S33552,135,1,0
+Mk3=Stimulus,S33552,646,1,0
+Mk4=Stimulus,S33552,6533,1,0
+Mk5=Stimulus,S33553,11140,1,0
+Mk6=Stimulus,S33554,11141,1,0
+Mk7=Stimulus,S33553,12933,1,0
+Mk8=Stimulus,S33554,12934,1,0
+Mk9=Stimulus,S33553,13958,1,0
+Mk10=Stimulus,S33554,13959,1,0
+Mk11=Stimulus,S33553,14983,1,0
+Mk12=Stimulus,S33554,14984,1,0
+Mk13=Stimulus,S33553,16520,1,0
+Mk14=Stimulus,S33554,16521,1,0
+Mk15=Stimulus,S33552,17033,1,0
+Mk16=Stimulus,S33552,20616,1,0
+Mk17=Stimulus,S33552,21383,1,0
+Mk18=Stimulus,S33552,22150,1,0
+Mk19=Stimulus,S33553,24965,1,0
+Mk20=Stimulus,S33554,24966,1,0
+Mk21=Stimulus,S33552,28294,1,0
+Mk22=Stimulus,S33552,29061,1,0
+Mk23=Stimulus,S33553,35716,1,0
+Mk24=Stimulus,S33554,35717,1,0
+Mk25=Stimulus,S33553,43141,1,0
+Mk26=Stimulus,S33554,43142,1,0
+Mk27=Stimulus,S33552,46470,1,0
+Mk28=Stimulus,S33552,48773,1,0
+Mk29=Stimulus,S33553,58244,1,0
+Mk30=Stimulus,S33554,58245,1,0
+Mk31=Stimulus,S33553,64133,1,0
+Mk32=Stimulus,S33554,64134,1,0
+Mk33=Stimulus,S33553,64902,1,0
+Mk34=Stimulus,S33554,64903,1,0
+Mk35=Stimulus,S33553,65671,1,0
+Mk36=Stimulus,S33554,65672,1,0
+Mk37=Stimulus,S33553,66696,1,0
+Mk38=Stimulus,S33554,66697,1,0
+Mk39=Stimulus,S33552,68489,1,0
+Mk40=Stimulus,S33552,69000,1,0
+Mk41=Stimulus,S33552,69767,1,0
+Mk42=Stimulus,S33552,70790,1,0
+Mk43=Stimulus,S33552,71557,1,0
+Mk44=Stimulus,S33552,77956,1,0
+Mk45=Stimulus,S33553,78723,1,0
+Mk46=Stimulus,S33554,78724,1,0
+Mk47=Stimulus,S33553,80260,1,0
+Mk48=Stimulus,S33554,80261,1,0
+Mk49=Stimulus,S33553,114821,1,0
+Mk50=Stimulus,S33554,114822,1,0
+Mk51=Stimulus,S33553,115078,1,0
+Mk52=Stimulus,S33554,115079,1,0
+Mk53=Stimulus,S33553,115591,1,0
+Mk54=Stimulus,S33554,115592,1,0
+Mk55=Stimulus,S33553,116872,1,0
+Mk56=Stimulus,S33554,116873,1,0
+Mk57=Stimulus,S33553,117385,1,0
+Mk58=Stimulus,S33554,117386,1,0
+Mk59=Stimulus,S33552,119178,1,0
+Mk60=Stimulus,S33552,119689,1,0
+Mk61=Stimulus,S33552,120456,1,0
+Mk62=Stimulus,S33552,121479,1,0
+Mk63=Stimulus,S33552,123782,1,0
+Mk64=Stimulus,S33552,126341,1,0
+Mk65=Stimulus,S33553,127876,1,0
+Mk66=Stimulus,S33554,127877,1,0
+Mk67=Stimulus,S33553,128133,1,0
+Mk68=Stimulus,S33554,128134,1,0

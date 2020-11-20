@@ -1,0 +1,59 @@
+Brain Vision Data Exchange Marker File, Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=P13_S5_PVR.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20191018113156887514
+Mk2=New Segment,LostSamples: 2589,149,1,0,20191018113202363518
+Mk3=New Segment,LostSamples: 479,285,1,0,20191018113203613521
+Mk4=New Segment,LostSamples: 690,412,1,0,20191018113205267525
+Mk5=New Segment,LostSamples: 987,559,1,0,20191018113207555528
+Mk6=New Segment,LostSamples: 1471,812,1,0,20191018113211023535
+Mk7=New Segment,LostSamples: 606,942,1,0,20191018113212515539
+Mk8=New Segment,LostSamples: 300,1087,1,0,20191018113213425543
+Mk9=New Segment,LostSamples: 477,1334,1,0,20191018113214893549
+Mk10=New Segment,LostSamples: 591,1536,1,0,20191018113216499555
+Mk11=New Segment,LostSamples: 556,1785,1,0,20191018113218129561
+Mk12=New Segment,LostSamples: 412,1911,1,0,20191018113219225564
+Mk13=New Segment,LostSamples: 488,2055,1,0,20191018113220509568
+Mk14=New Segment,LostSamples: 542,2303,1,0,20191018113222109574
+Mk15=New Segment,LostSamples: 722,2429,1,0,20191018113223825577
+Mk16=New Segment,LostSamples: 776,2575,1,0,20191018113225689581
+Mk17=New Segment,LostSamples: 307,2821,1,0,20191018113226815587
+Mk18=New Segment,LostSamples: 268,2947,1,0,20191018113227623590
+Mk19=New Segment,LostSamples: 432,3165,1,0,20191018113228943596
+Mk20=New Segment,LostSamples: 302,3414,1,0,20191018113230065602
+Mk21=New Segment,LostSamples: 312,3541,1,0,20191018113230963606
+Mk22=New Segment,LostSamples: 177,3729,1,0,20191018113231713611
+Mk23=New Segment,LostSamples: 437,3875,1,0,20191018113232899614
+Mk24=New Segment,LostSamples: 228,4125,1,0,20191018113233875621
+Mk25=New Segment,LostSamples: 405,4252,1,0,20191018113234959624
+Mk26=New Segment,LostSamples: 495,4400,1,0,20191018113236265628
+Mk27=New Segment,LostSamples: 233,4652,1,0,20191018113237255635
+Mk28=New Segment,LostSamples: 117,4779,1,0,20191018113237763638
+Mk29=New Segment,LostSamples: 8836,4821,1,0,20191018113255539639
+Mk30=New Segment,LostSamples: 811,4885,1,0,20191018113257309640
+Mk31=New Segment,LostSamples: 656,5077,1,0,20191018113259025645
+Mk32=New Segment,LostSamples: 763,5212,1,0,20191018113300841649
+Mk33=New Segment,LostSamples: 729,5340,1,0,20191018113302575652
+Mk34=New Segment,LostSamples: 1113,5489,1,0,20191018113305119656
+Mk35=New Segment,LostSamples: 430,5679,1,0,20191018113306379661
+Mk36=New Segment,LostSamples: 162,6323,1,0,20191018113308011678
+Mk37=New Segment,LostSamples: 194,6587,1,0,20191018113308947685
+Mk38=New Segment,LostSamples: 245,7222,1,0,20191018113310727702
+Mk39=New Segment,LostSamples: 247,7376,1,0,20191018113311549707
+Mk40=New Segment,LostSamples: 199,7523,1,0,20191018113312261710
+Mk41=New Segment,LostSamples: 216,8050,1,0,20191018113313767724
+Mk42=New Segment,LostSamples: 107,19035,1,0,20191018113335972020
+Mk43=New Segment,LostSamples: 65,19708,1,0,20191018113337468038
+Mk44=New Segment,LostSamples: 235,24916,1,0,20191018113348374178
+Mk45=O1,O  1,35429,1,0
+Mk46=C1,C  1,68189,1,0
+Mk47=EOEC1End,E  1,128225,1,0
+Mk48=New Segment,LostSamples: 206,132436,1,0,20191018113723849067

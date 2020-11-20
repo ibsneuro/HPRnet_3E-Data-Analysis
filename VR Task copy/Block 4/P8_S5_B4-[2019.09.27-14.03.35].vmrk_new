@@ -1,0 +1,61 @@
+Brain Vision Data Exchange Marker File, Version 1.0
+
+[Common Infos]
+Codepage=ANSI
+DataFile=P8_S5_B4-[2019.09.27-14.03.35].eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20190927140336000000
+Mk2=Stimulus,S33552,630,1,0
+Mk3=Stimulus,S33552,885,1,0
+Mk4=Stimulus,S33552,1394,1,0
+Mk5=Stimulus,S33553,6001,1,0
+Mk6=Stimulus,S33554,6002,1,0
+Mk7=Stimulus,S33553,7538,1,0
+Mk8=Stimulus,S33554,7539,1,0
+Mk9=Stimulus,S33553,9075,1,0
+Mk10=Stimulus,S33554,9076,1,0
+Mk11=Stimulus,S33552,10100,1,0
+Mk12=Stimulus,S33552,10611,1,0
+Mk13=Stimulus,S33552,13170,1,0
+Mk14=Stimulus,S33553,20337,1,0
+Mk15=Stimulus,S33554,20338,1,0
+Mk16=Stimulus,S33553,30066,1,0
+Mk17=Stimulus,S33554,30068,1,0
+Mk18=Stimulus,S33553,31092,1,0
+Mk19=Stimulus,S33554,31093,1,0
+Mk20=Stimulus,S33553,31861,1,0
+Mk21=Stimulus,S33554,31862,1,0
+Mk22=Stimulus,S33553,32630,1,0
+Mk23=Stimulus,S33554,32631,1,0
+Mk24=Stimulus,S33553,33399,1,0
+Mk25=Stimulus,S33554,33400,1,0
+Mk26=Stimulus,S33553,33912,1,0
+Mk27=Stimulus,S33554,33913,1,0
+Mk28=Stimulus,S33552,35193,1,0
+Mk29=Stimulus,S33552,36984,1,0
+Mk30=Stimulus,S33552,38006,1,0
+Mk31=Stimulus,S33553,41589,1,0
+Mk32=Stimulus,S33554,41590,1,0
+Mk33=Stimulus,S33553,41846,1,0
+Mk34=Stimulus,S33554,41847,1,0
+Mk35=Stimulus,S33553,42871,1,0
+Mk36=Stimulus,S33554,42872,1,0
+Mk37=Stimulus,S33553,43384,1,0
+Mk38=Stimulus,S33554,43385,1,0
+Mk39=Stimulus,S33553,44665,1,0
+Mk40=Stimulus,S33554,44666,1,0
+Mk41=Stimulus,S33552,45178,1,0
+Mk42=Stimulus,S33552,45688,1,0
+Mk43=Stimulus,S33552,46711,1,0
+Mk44=Stimulus,S33552,46966,1,0
+Mk45=Stimulus,S33552,47221,1,0
+Mk46=Stimulus,S33552,47988,1,0
+Mk47=Stimulus,S33553,55155,1,0
+Mk48=Stimulus,S33554,55156,1,0
+Mk49=Stimulus,S33552,57460,1,0
+Mk50=Stimulus,S33552,59250,1,0

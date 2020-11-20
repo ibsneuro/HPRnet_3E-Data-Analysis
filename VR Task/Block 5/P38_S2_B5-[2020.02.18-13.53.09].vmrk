@@ -1,0 +1,51 @@
+Brain Vision Data Exchange Marker File, Version 1.0
+
+[Common Infos]
+Codepage=ANSI
+DataFile=P38_S2_B5-[2020.02.18-13.53.09].eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20200218135310000000
+Mk2=Stimulus,S33553,2310,1,0
+Mk3=Stimulus,S33554,2311,1,0
+Mk4=Stimulus,S33552,6663,1,0
+Mk5=Stimulus,S33553,13318,1,0
+Mk6=Stimulus,S33554,13319,1,0
+Mk7=Stimulus,S33552,17671,1,0
+Mk8=Stimulus,S33552,22278,1,0
+Mk9=Stimulus,S33553,27909,1,0
+Mk10=Stimulus,S33554,27910,1,0
+Mk11=Stimulus,S33552,40454,1,0
+Mk12=Stimulus,S33553,42245,1,0
+Mk13=Stimulus,S33554,42246,1,0
+Mk14=Stimulus,S33552,52998,1,0
+Mk15=Stimulus,S33553,56581,1,0
+Mk16=Stimulus,S33554,56582,1,0
+Mk17=Stimulus,S33553,59142,1,0
+Mk18=Stimulus,S33554,59143,1,0
+Mk19=Stimulus,S33552,64007,1,0
+Mk20=Stimulus,S33552,98054,1,0
+Mk21=Stimulus,S33553,100869,1,0
+Mk22=Stimulus,S33554,100870,1,0
+Mk23=Stimulus,S33553,102150,1,0
+Mk24=Stimulus,S33554,102151,1,0
+Mk25=Stimulus,S33552,116231,1,0
+Mk26=Stimulus,S33552,125190,1,0
+Mk27=Stimulus,S33553,128261,1,0
+Mk28=Stimulus,S33554,128262,1,0
+Mk29=Stimulus,S33552,142086,1,0
+Mk30=Stimulus,S33553,144389,1,0
+Mk31=Stimulus,S33554,144390,1,0
+Mk32=Stimulus,S33553,179206,1,0
+Mk33=Stimulus,S33554,179207,1,0
+Mk34=Stimulus,S33552,180743,1,0
+Mk35=Stimulus,S33552,183558,1,0
+Mk36=Stimulus,S33553,199685,1,0
+Mk37=Stimulus,S33554,199686,1,0
+Mk38=Stimulus,S33552,206086,1,0
+Mk39=Stimulus,S33553,218117,1,0
+Mk40=Stimulus,S33554,218118,1,0

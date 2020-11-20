@@ -1,0 +1,25 @@
+pid session measure value
+18 1 paf 
+18 1 cog 
+18 1 alpha_lower 
+18 1 alpha_upper 
+18 1 l_alpha_lower 
+18 1 l_alpha_upper 
+18 1 u_alpha_lower 
+18 1 u_alpha_upper 
+18 1 theta_lower 
+18 1 theta_upper 
+18 1 beta_lower 
+18 1 beta_upper 
+18 2 paf 
+18 2 cog 
+18 2 alpha_lower 
+18 2 alpha_upper 
+18 2 l_alpha_lower 
+18 2 l_alpha_upper 
+18 2 u_alpha_lower 
+18 2 u_alpha_upper 
+18 2 theta_lower 
+18 2 theta_upper 
+18 2 beta_lower 
+18 2 beta_upper 

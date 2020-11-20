@@ -1,0 +1,42 @@
+Brain Vision Data Exchange Marker File, Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=P3_S5_CT.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20190913131805683429
+Mk2=O1,O  1,49067,1,0
+Mk3=C1,C  1,81827,1,0
+Mk4=EOEC1End,E  1,141863,1,0
+Mk5=TrainingStart,T  1,145102,1,0
+Mk6=New Segment,LostSamples: 493,483886,1,0,20190913133414454431
+Mk7=New Segment,LostSamples: 504,485526,1,0,20190913133418762475
+Mk8=New Segment,LostSamples: 423,485799,1,0,20190913133420174482
+Mk9=New Segment,LostSamples: 186,486100,1,0,20190913133421168490
+Mk10=New Segment,LostSamples: 262,486595,1,0,20190913133422702503
+Mk11=New Segment,LostSamples: 954,486756,1,0,20190913133424952508
+Mk12=New Segment,LostSamples: 737,486963,1,0,20190913133426860513
+Mk13=New Segment,LostSamples: 673,487169,1,0,20190913133428638519
+Mk14=New Segment,LostSamples: 74,487455,1,0,20190913133429378526
+Mk15=New Segment,LostSamples: 124,511389,1,0,20190913133517515169
+Mk16=New Segment,LostSamples: 256,511599,1,0,20190913133518467174
+Mk17=New Segment,LostSamples: 130,511967,1,0,20190913133519483184
+Mk18=New Segment,LostSamples: 232,512336,1,0,20190913133520705193
+Mk19=New Segment,LostSamples: 416,512912,1,0,20190913133522709209
+Mk20=O2,O  1,610857,1,0
+Mk21=C2,C  1,643618,1,0
+Mk22=New Segment,LostSamples: 398,696500,1,0,20190913134130706142
+Mk23=New Segment,LostSamples: 840,696661,1,0,20190913134132728146
+Mk24=New Segment,LostSamples: 317,697075,1,0,20190913134134210157
+Mk25=New Segment,LostSamples: 385,697236,1,0,20190913134135322161
+Mk26=New Segment,LostSamples: 94,697509,1,0,20190913134136076169
+Mk27=New Segment,LostSamples: 135,697728,1,0,20190913134136804175
+Mk28=New Segment,LostSamples: 250,697933,1,0,20190913134137734180
+Mk29=New Segment,LostSamples: 162,698221,1,0,20190913134138654188
+Mk30=New Segment,LostSamples: 168,698381,1,0,20190913134139330191
+Mk31=EOEC2End,E  1,700904,1,0

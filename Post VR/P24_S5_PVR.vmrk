@@ -1,0 +1,16 @@
+Brain Vision Data Exchange Marker File, Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=P24_S5_PVR.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20191129113327862295
+Mk2=O1,O  1,27654,1,0
+Mk3=C1,C  1,60415,1,0
+Mk4=New Segment,LostSamples: 2,79376,1,0,20191129113606620428
+Mk5=EOEC1End,E  1,120458,1,0

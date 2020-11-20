@@ -1,0 +1,59 @@
+Brain Vision Data Exchange Marker File, Version 1.0
+
+[Common Infos]
+Codepage=ANSI
+DataFile=C:/Users/User/Desktop/ShootingGalleryVR/EEG_LOGS/P31_S5_B6-[2019.12.20-10.39.01].eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20191220103901000000
+Mk2=Stimulus,S33553,358,1,0
+Mk3=Stimulus,S33554,359,1,0
+Mk4=Stimulus,S33553,1383,1,0
+Mk5=Stimulus,S33554,1384,1,0
+Mk6=Stimulus,S33552,4712,1,0
+Mk7=Stimulus,S33553,7527,1,0
+Mk8=Stimulus,S33554,7528,1,0
+Mk9=Stimulus,S33552,11880,1,0
+Mk10=Stimulus,S33552,19559,1,0
+Mk11=Stimulus,S33553,28518,1,0
+Mk12=Stimulus,S33554,28519,1,0
+Mk13=Stimulus,S33553,28775,1,0
+Mk14=Stimulus,S33554,28776,1,0
+Mk15=Stimulus,S33553,29288,1,0
+Mk16=Stimulus,S33554,29289,1,0
+Mk17=Stimulus,S33552,32873,1,0
+Mk18=Stimulus,S33552,33384,1,0
+Mk19=Stimulus,S33552,33895,1,0
+Mk20=Stimulus,S33553,42854,1,0
+Mk21=Stimulus,S33554,42855,1,0
+Mk22=Stimulus,S33552,59495,1,0
+Mk23=Stimulus,S33553,72806,1,0
+Mk24=Stimulus,S33554,72807,1,0
+Mk25=Stimulus,S33553,76391,1,0
+Mk26=Stimulus,S33554,76392,1,0
+Mk27=Stimulus,S33552,79720,1,0
+Mk28=Stimulus,S33552,89191,1,0
+Mk29=Stimulus,S33553,92774,1,0
+Mk30=Stimulus,S33554,92775,1,0
+Mk31=Stimulus,S33552,107879,1,0
+Mk32=Stimulus,S33552,124774,1,0
+Mk33=Stimulus,S33553,128613,1,0
+Mk34=Stimulus,S33554,128614,1,0
+Mk35=Stimulus,S33553,144998,1,0
+Mk36=Stimulus,S33554,144999,1,0
+Mk37=Stimulus,S33552,147559,1,0
+Mk38=Stimulus,S33552,153190,1,0
+Mk39=Stimulus,S33553,158309,1,0
+Mk40=Stimulus,S33554,158310,1,0
+Mk41=Stimulus,S33553,161126,1,0
+Mk42=Stimulus,S33554,161127,1,0
+Mk43=Stimulus,S33552,168295,1,0
+Mk44=Stimulus,S33553,185702,1,0
+Mk45=Stimulus,S33554,185703,1,0
+Mk46=Stimulus,S33553,188519,1,0
+Mk47=Stimulus,S33554,188520,1,0
+Mk48=Stimulus,S33552,190568,1,0

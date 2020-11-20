@@ -1,0 +1,62 @@
+Brain Vision Data Exchange Marker File, Version 1.0
+
+[Common Infos]
+Codepage=ANSI
+DataFile=P16_S5_TO-[2019.11.01-10.58.36].eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20191101105836000000
+Mk2=Stimulus,S33552,194,1,0
+Mk3=Stimulus,S33552,961,1,0
+Mk4=Stimulus,S33552,1216,1,0
+Mk5=Stimulus,S33552,1471,1,0
+Mk6=Stimulus,S33553,2750,1,0
+Mk7=Stimulus,S33554,2751,1,0
+Mk8=Stimulus,S33553,3007,1,0
+Mk9=Stimulus,S33554,3009,1,0
+Mk10=Stimulus,S33553,3265,1,0
+Mk11=Stimulus,S33554,3266,1,0
+Mk12=Stimulus,S33553,5314,1,0
+Mk13=Stimulus,S33554,5315,1,0
+Mk14=Stimulus,S33552,5827,1,0
+Mk15=Stimulus,S33553,6594,1,0
+Mk16=Stimulus,S33554,6596,1,0
+Mk17=Stimulus,S33552,7108,1,0
+Mk18=Stimulus,S33553,7875,1,0
+Mk19=Stimulus,S33554,7877,1,0
+Mk20=Stimulus,S33553,9157,1,0
+Mk21=Stimulus,S33554,9159,1,0
+Mk22=Stimulus,S33553,9927,1,0
+Mk23=Stimulus,S33554,9929,1,0
+Mk24=Stimulus,S33552,10696,1,0
+Mk25=Stimulus,S33553,10951,1,0
+Mk26=Stimulus,S33554,10952,1,0
+Mk27=Stimulus,S33553,11464,1,0
+Mk28=Stimulus,S33554,11466,1,0
+Mk29=Stimulus,S33553,11722,1,0
+Mk30=Stimulus,S33554,11726,1,0
+Mk31=Stimulus,S33553,12494,1,0
+Mk32=Stimulus,S33554,12497,1,0
+Mk33=Stimulus,S33553,12753,1,0
+Mk34=Stimulus,S33554,12755,1,0
+Mk35=Stimulus,S33552,13523,1,0
+Mk36=Stimulus,S33552,14034,1,0
+Mk37=Stimulus,S33553,14801,1,0
+Mk38=Stimulus,S33554,14803,1,0
+Mk39=Stimulus,S33552,15315,1,0
+Mk40=Stimulus,S33552,15570,1,0
+Mk41=Stimulus,S33552,15824,1,0
+Mk42=Stimulus,S33552,16077,1,0
+Mk43=Stimulus,S33552,16587,1,0
+Mk44=Stimulus,S33552,16842,1,0
+Mk45=Stimulus,S33552,17353,1,0
+Mk46=Stimulus,S33553,18120,1,0
+Mk47=Stimulus,S33554,18121,1,0
+Mk48=Stimulus,S33552,18377,1,0
+Mk49=Stimulus,S33552,18887,1,0
+Mk50=Stimulus,S33553,19398,1,0
+Mk51=Stimulus,S33554,19400,1,0

@@ -1,0 +1,30 @@
+Brain Vision Data Exchange Marker File, Version 1.0
+
+[Common Infos]
+Codepage=ANSI
+DataFile=P23_S5_B2-[2019.11.22-13.23.55].eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20191122132355000000
+Mk2=Stimulus,S33553,371,1,0
+Mk3=Stimulus,S33554,372,1,0
+Mk4=Stimulus,S33552,3188,1,0
+Mk5=Stimulus,S33553,6003,1,0
+Mk6=Stimulus,S33554,6004,1,0
+Mk7=Stimulus,S33553,6516,1,0
+Mk8=Stimulus,S33554,6517,1,0
+Mk9=Stimulus,S33553,7285,1,0
+Mk10=Stimulus,S33554,7286,1,0
+Mk11=Stimulus,S33553,8566,1,0
+Mk12=Stimulus,S33554,8567,1,0
+Mk13=Stimulus,S33553,9591,1,0
+Mk14=Stimulus,S33554,9592,1,0
+Mk15=Stimulus,S33552,14712,1,0
+Mk16=Stimulus,S33552,15223,1,0
+Mk17=Stimulus,S33552,17782,1,0
+Mk18=Stimulus,S33552,24181,1,0
+Mk19=Stimulus,S33552,26228,1,0

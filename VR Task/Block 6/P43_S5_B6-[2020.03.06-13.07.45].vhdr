@@ -1,0 +1,63 @@
+Brain Vision Data Exchange Header File Version 1.0
+; Data created by the Vision Recorder
+
+[Common Infos]
+Codepage=ANSI
+DataFile=P43_S5_B6-[2020.03.06-13.07.45].eeg
+MarkerFile=P43_S5_B6-[2020.03.06-13.07.45].vmrk
+DataFormat=BINARY
+; Data orientation: MULTIPLEXED=ch1,pt1, ch2,pt1 ...
+DataOrientation=MULTIPLEXED
+NumberOfChannels=32
+; Sampling interval in microseconds
+SamplingInterval=2000.00000
+
+[Binary Infos]
+BinaryFormat=IEEE_FLOAT_32
+
+[Channel Infos]
+; Each entry: Ch<Channel number>=<Name>,<Reference channel name>,
+; <Resolution in "Unit">,<Unit>, Future extensions..
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in channel names are coded as "\1".
+Ch1=Fp1,,1
+Ch2=Fz,,1
+Ch3=F3,,1
+Ch4=F7,,1
+Ch5=FT9,,1
+Ch6=FC5,,1
+Ch7=FC1,,1
+Ch8=C3,,1
+Ch9=T7,,1
+Ch10=TP9,,1
+Ch11=CP5,,1
+Ch12=CP1,,1
+Ch13=Pz,,1
+Ch14=P3,,1
+Ch15=P7,,1
+Ch16=O1,,1
+Ch17=Oz,,1
+Ch18=O2,,1
+Ch19=P4,,1
+Ch20=P8,,1
+Ch21=TP10,,1
+Ch22=CP6,,1
+Ch23=CP2,,1
+Ch24=Cz,,1
+Ch25=C4,,1
+Ch26=T8,,1
+Ch27=FT10,,1
+Ch28=FC6,,1
+Ch29=FC2,,1
+Ch30=F4,,1
+Ch31=F8,,1
+Ch32=Fp2,,1
+
+[Comment]
+
+A m p l i f i e r  S e t u p
+============================
+Number of channels: 33
+Sampling Rate [Hz]: 500
+Interval [µS]: 2000.00000
+

@@ -1,0 +1,39 @@
+Brain Vision Data Exchange Marker File, Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=P8_S2_CT.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20190924105746642948
+Mk2=O1,O  1,66659,1,0
+Mk3=C1,C  1,99420,1,0
+Mk4=EOEC1End,E  1,159455,1,0
+Mk5=TrainingStart,T  1,162694,1,0
+Mk6=New Segment,LostSamples: 782,187840,1,0,20190924110403891995
+Mk7=New Segment,LostSamples: 125,191092,1,0,20190924110410666082
+Mk8=New Segment,LostSamples: 147,191578,1,0,20190924110411952096
+Mk9=New Segment,LostSamples: 7427,191732,1,0,20190924110427134100
+Mk10=New Segment,LostSamples: 1380,191931,1,0,20190924110430312105
+Mk11=New Segment,LostSamples: 1645,192075,1,0,20190924110433910109
+Mk12=New Segment,LostSamples: 2451,192208,1,0,20190924110439098112
+Mk13=New Segment,LostSamples: 2720,192363,1,0,20190924110444868117
+Mk14=New Segment,LostSamples: 217,192685,1,0,20190924110445966125
+Mk15=New Segment,LostSamples: 351,192839,1,0,20190924110446996128
+Mk16=New Segment,LostSamples: 133,193102,1,0,20190924110447808135
+Mk17=New Segment,LostSamples: 141,193513,1,0,20190924110448932146
+Mk18=New Segment,LostSamples: 161,193667,1,0,20190924110449582150
+Mk19=New Segment,LostSamples: 104,193929,1,0,20190924110450334157
+Mk20=New Segment,LostSamples: 157,201139,1,0,20190924110505088351
+Mk21=O2,O  1,615563,1,0
+Mk22=C2,C  1,648323,1,0
+Mk23=New Segment,LostSamples: 116,665568,1,0,20190924112034210830
+Mk24=EOEC2End,E  1,708242,1,0
+Mk25=New Segment,LostSamples: 194,711998,1,0,20190924112207480078
+Mk26=New Segment,LostSamples: 98,712294,1,0,20190924112208288086
+Mk27=New Segment,LostSamples: 172,712723,1,0,20190924112209510098
+Mk28=New Segment,LostSamples: 289,712866,1,0,20190924112210394102

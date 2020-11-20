@@ -1,0 +1,28 @@
+Brain Vision Data Exchange Marker File, Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=P2_S2_CT.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20190910104702024204
+Mk2=New Segment,LostSamples: 243,6173,1,0,20190910104714856369
+Mk3=New Segment,LostSamples: 266,6310,1,0,20190910104715682373
+Mk4=New Segment,LostSamples: 91,6790,1,0,20190910104716844387
+Mk5=New Segment,LostSamples: 223,7375,1,0,20190910104718480402
+Mk6=New Segment,LostSamples: 108,7627,1,0,20190910104719220408
+Mk7=New Segment,LostSamples: 208,7902,1,0,20190910104720206416
+Mk8=New Segment,LostSamples: 107,9554,1,0,20190910104723744461
+Mk9=New Segment,LostSamples: 116,11030,1,0,20190910104726948501
+Mk10=New Segment,LostSamples: 60,11260,1,0,20190910104727548507
+Mk11=O1,O  1,48566,1,0
+Mk12=C1,C  1,81326,1,0
+Mk13=EOEC1End,E  1,141361,1,0
+Mk14=TrainingStart,T  1,144601,1,0
+Mk15=O2,O  1,615840,1,0
+Mk16=C2,C  1,648600,1,0
+Mk17=EOEC2End,E  1,708635,1,0
